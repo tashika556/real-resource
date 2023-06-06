@@ -1,0 +1,215 @@
+@media (min-width: 1500px) {
+  .container {
+    max-width: 1240px;
+  }
+}
+@media (max-width: 1199px) {
+  body {
+    overflow-x: hidden !important;
+  }
+}
+@media (min-width: 990px) {
+
+}
+
+@media (max-width: 990px) {
+  section.about {
+    padding-top: 0;
+  }
+  section.slider_homepage {
+    height: clamp(400px, 50vw, 94vh);
+    margin-top: 86px;
+  }
+  .job_list-wrapp {
+    margin-top: -53px;
+  }
+ 
+  .logo_mobile img {
+    width: 191px;
+  }
+  .job_wrapp {
+    min-height: 255px;
+    max-height: 255px;
+  }
+  .top_header {
+    position: fixed;
+    z-index: 9;
+  }
+  section {
+    padding: 75px 0;
+  }
+  .about_wrapp {
+    margin-top: 0;
+  }
+  hr.custome_hr {
+    margin: 20px 0;
+  }
+  section.destination {
+    margin-top: 0;
+  }
+  .destination_slider {
+    margin-top: 0;
+  }
+  section.message.bg_gray .about_wrapp {
+    margin-top: 24px;
+  }
+  .section_title {
+    margin-bottom: 20px;
+    width: 100% !important;
+  }
+  section.banner {
+    margin-top: 97px;
+  }
+  .about_row-wrapp {
+    margin-top: -367px;
+    margin-bottom: 60px;
+  }
+  .category_side-job,
+  .category_block_item {
+    width: 100%;
+  }
+  .nepal_information-img img {
+  }
+  .nepal_information-img img {
+    margin-top: 0;
+    margin-left: 0;
+  }
+  .nepal_information-img::before {
+    display: none;
+  }
+  .nepal_information-block {
+    padding: 67px;
+  }
+  .nepal_information-block h1 {
+    font-size: 28px;
+    line-height: 38px;
+  }
+  .nepal_information-img img {
+    height: 292px;
+  }
+  .banner_content {
+    width: 80%;
+  }
+  .wrapp_message {
+    margin-top: unset;
+    width: unset;
+    margin-top: 20px;
+  }
+  .chairman {
+    margin-bottom: 10px !important;
+  }
+  .form_wrapp {
+    margin-top: 39px;
+  }
+  .form_wrapp {
+    padding: 30px;
+  }
+  .logo img {
+    width: 139px;
+    top: 0px;
+    padding: 20px;
+    padding-bottom: 0;
+    background: unset;
+  }
+  .icon_block_header {
+    margin-top: 11px;
+  }
+  section.who_we-are::after {
+    display: none;
+  }
+  section.who_we-are::before {
+    width: 100%;
+  }
+  .about_img img {
+    border-radius: 0;
+  }
+  .about_img {
+    background-image: unset;
+  }
+  .padding_y {
+    padding: 50px;
+  }
+  .services_wrapp {
+    min-height: unset;
+    max-height: unset;
+  }
+  .contact-info {
+    padding: 90px;
+  }
+  .footer-top {
+    padding-top: unset;
+    padding-bottom: unset;
+  }
+
+  .footer-top .widget-title {
+    margin-bottom: 12px;
+
+    margin-top: 25px;
+  }
+  .message_img::before {
+    top: -11px;
+
+    width: 13%;
+
+    height: 396px;
+  }
+  section.top_header {
+    position: fixed !important;
+    background: white;
+  }
+  .side-bar-large {
+    width: 356px;
+  }
+  section.bg_img.banner {
+ 
+  margin-top: 88px;
+}
+}
+@media (max-width: 767px) {
+  section.job {
+    padding-bottom: 0;
+}
+  .menu_side ul li a {
+ 
+    margin-bottom: 13px;
+ 
+    font-size: clamp(16px, 5vw, 27px);
+    line-height: clamp(26px, 5vw, 37px);
+   
+    color: rgb(216, 255, 218);
+
+}
+.address-links h5 {
+  font-size: 21px;
+}
+  .banner_content {
+    width: 93%;
+  }
+  .job_detail-block {
+    padding: 31px;
+    margin-bottom: 20px;
+  }
+  .about_img img {
+ 
+    padding-bottom: 33px;
+}
+section {
+  padding: 60px 0;
+}
+.testimonial_box {
+  margin-left: 0;
+}
+.testimonial_box-img{
+  display: none;
+}
+.contact-info {
+  padding: 36px;
+}
+.testimonial_box-text {
+  padding: 30px;
+}
+.logo-item img {
+  
+  width: 98%;
+}
+}
